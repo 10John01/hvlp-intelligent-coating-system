@@ -17,6 +17,10 @@ I Pitched a complete rebuild to management. Built it from scratch using only off
 
 **Result**: A 66" x 36" dual-axis coating system. Teresa (Lead Coater for FX Industries) operates it daily.
 
+## Using an AI assistant?
+
+Start with [REPO_BOOT.md](REPO_BOOT.md) — a quick orientation for any LLM (Claude, ChatGPT, or other) on what this repo is, how it works, and how to collaborate with it effectively.
+
 ## The Code
 4000 lines of working industrial control code. 184 iterations.
 
