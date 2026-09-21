@@ -21,6 +21,14 @@ I Pitched a complete rebuild to management. Built it from scratch using only off
 
 Start with [REPO_BOOT.md](REPO_BOOT.md) — a quick orientation for any LLM (Claude, ChatGPT, or other) on what this repo is, how it works, and how to collaborate with it effectively.
 
+## What This Repository Contains
+
+| File / Folder | Purpose |
+|---|---|
+| `code/job_security_v18.3.cpp` | The production control firmware, 4000 lines, 184 iterations |
+| `media/` | Demo video and supporting images |
+| `REPO_BOOT.md` | AI orientation file, regenerated on push |
+
 ## The Code
 4000 lines of working industrial control code. 184 iterations.
 
